@@ -12,5 +12,8 @@
 ### Aula 1
 - [Introdução](aula1-introducao)
 
+### Aula 2
+- [Mitos e verdades](aula2-mitos-verdades)
+
 ## Playlist
 Minicurso disponível no [YouTube](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) *by* William Justen.
