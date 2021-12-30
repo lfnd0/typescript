@@ -15,5 +15,8 @@
 ### Aula 2
 - [Mitos e verdades](aula2-mitos-verdades)
 
+### Aula 3
+- [Instalando o compilador e escrevendo o primeiro código](aula3-instalando-compilador-escrevendo-primeiro-codigo)
+
 ## Playlist
 Minicurso disponível no [YouTube](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) *by* William Justen.
