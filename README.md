@@ -18,5 +18,13 @@
 ### Aula 3
 - [Instalando o compilador e escrevendo o primeiro código](aula3-instalando-compilador-escrevendo-primeiro-codigo)
 
+## Comandos importantes
+
+### Instalação das dependências:
+> yarn
+
+### Compilação do código:
+> yarn tsc nome-do-diretorio/nome-do-aquivo.ts --watch
+
 ## Playlist
 Minicurso disponível no [YouTube](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) *by* William Justen.
