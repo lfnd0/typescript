@@ -24,7 +24,11 @@
 > yarn
 
 ### Compilação do código:
-> yarn tsc nome-do-diretorio/nome-do-aquivo.ts --watch
+> yarn tsc nome-do-aquivo.ts | --watch
+
+Ou, com o `tsconfig.json` configurado:
+
+> yarn tsc
 
 ## Playlist
 Minicurso disponível no [YouTube](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) *by* William Justen.
