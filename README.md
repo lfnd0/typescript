@@ -24,6 +24,15 @@
 ### Aula 5
 - [Types](aula5-types)
 
+### Aula 6
+- [Type inference](aula6-type-inference)
+
+### Aula 7
+- [Type aliases com union](aula7-type-aliases-union)
+
+### Aula 8
+- [Type aliases com intersection](aula8-type-aliases-intersection)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
