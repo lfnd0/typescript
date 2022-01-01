@@ -46,7 +46,10 @@
 
 Ou, com o `tsconfig.json` configurado:
 
-> yarn tsc
+> yarn tsc | --watch
+
+### Execução do código:
+> yarn dev
 
 ## Playlist
 Minicurso disponível no [YouTube](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) *by* William Justen.
