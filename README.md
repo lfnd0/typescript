@@ -18,6 +18,9 @@
 ### Aula 3
 - [Instalando o compilador e escrevendo o primeiro código](aula3-instalando-compilador-escrevendo-primeiro-codigo)
 
+### Aula 4
+- [Criando e configurando o TSconfig](aula4-criando-configurando-tsconfig)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
