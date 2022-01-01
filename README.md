@@ -33,6 +33,9 @@
 ### Aula 8
 - [Type aliases com intersection](aula8-type-aliases-intersection)
 
+### Aula 9
+- [Classes](aula9-classes)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
