@@ -1,0 +1,15 @@
+{
+  "name": "aula10-interfaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn nodemon ./dist/interfaces.js"
+  },
+  "dependencies": {
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
