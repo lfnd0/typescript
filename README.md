@@ -36,6 +36,9 @@
 ### Aula 9
 - [Classes](aula9-classes)
 
+### Aula 10
+- [Interfaces](aula10-interfaces)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
