@@ -9,10 +9,10 @@ function logInfo(uid: Uid, user: string) {
   console.log(`A product with ${uid} has a title as ${user}.`)
 }
 
-type Plataform = 'Windows' | 'Linux' | 'MacOS'
+type Platform = 'Windows' | 'Linux' | 'MacOS'
 
-function renderPlataform(plataform: Plataform) {
-  return plataform;
+function renderPlatform(platform: Platform) {
+  return platform;
 }
 
 logDetails(291, 'sapato');
@@ -21,4 +21,4 @@ logDetails('291', 'sapato');
 logInfo(521, 'Logan');
 logInfo('521', 'Logan');
 
-renderPlataform('iOS');
+// renderPlatform('iOS');
