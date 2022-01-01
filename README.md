@@ -21,6 +21,9 @@
 ### Aula 4
 - [Criando e configurando o TSconfig](aula4-criando-configurando-tsconfig)
 
+### Aula 5
+- [Types](aula5-types)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
