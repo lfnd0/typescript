@@ -25,19 +25,22 @@
 - [Types](aula5-types)
 
 ### Aula 6
-- [Type inference](aula6-type-inference)
+- [Type Inference](aula6-type-inference)
 
 ### Aula 7
-- [Type aliases com union](aula7-type-aliases-union)
+- [Type Aliases com Union](aula7-type-aliases-union)
 
 ### Aula 8
-- [Type aliases com intersection](aula8-type-aliases-intersection)
+- [Type Aliases com Intersection](aula8-type-aliases-intersection)
 
 ### Aula 9
 - [Classes](aula9-classes)
 
 ### Aula 10
 - [Interfaces](aula10-interfaces)
+
+### Aula 11
+- [Type Alias *vs* Interface](aula11-type-alias-interface)
 
 ## Comandos importantes
 
