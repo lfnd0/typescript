@@ -48,6 +48,9 @@
 ### Aula 13
 - [Type Utilities](aula13-type-utilities)
 
+### Aula 14
+- [Decorators](aula14-decorators)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
