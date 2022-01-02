@@ -42,6 +42,9 @@
 ### Aula 11
 - [Type Alias *vs* Interface](aula11-type-alias-interface)
 
+### Aula 12
+- [Generics](aula12-generics)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
