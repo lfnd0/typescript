@@ -45,6 +45,9 @@
 ### Aula 12
 - [Generics](aula12-generics)
 
+### Aula 13
+- [Type Utilities](aula13-type-utilities)
+
 ## Comandos importantes
 
 ### Instalação das dependências:
