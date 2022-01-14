@@ -43,7 +43,7 @@
     features: Feature[];
   }
   ```
-- Deixa usa IDE extremamente poderosa.
+- Deixa sua IDE extremamente poderosa.
 
 ### Desvantagens do TypeScript:
 - Necessita ser compilado (mais passos no *tooling*);
