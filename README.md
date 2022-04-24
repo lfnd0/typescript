@@ -8,48 +8,21 @@
 </p>
 
 ## Índice
+- Aula 1: [Introdução](aula1-introducao)
+- Aula 2: [Mitos e verdades](aula2-mitos-verdades)
+- Aula 3: [Instalando o compilador e escrevendo o primeiro código](aula3-instalando-compilador-escrevendo-primeiro-codigo)
+- Aula 4: [Criando e configurando o TSconfig](aula4-criando-configurando-tsconfig)
+- Aula 5: [Types](aula5-types)
+- Aula 6: [Type Inference](aula6-type-inference)
+- Aula 7: [Type Aliases com Union](aula7-type-aliases-union)
+- Aula 8: [Type Aliases com Intersection](aula8-type-aliases-intersection)
+- Aula 9: [Classes](aula9-classes)
+- Aula 10: [Interfaces](aula10-interfaces)
+- Aula 11: [Type Alias *vs* Interface](aula11-type-alias-interface)
+- Aula 12: [Generics](aula12-generics)
+- Aula 13: [Type Utilities](aula13-type-utilities)
+- Aula 14 (final): [Decorators](aula14-decorators)
 
-### Aula 1
-- [Introdução](aula1-introducao)
-
-### Aula 2
-- [Mitos e verdades](aula2-mitos-verdades)
-
-### Aula 3
-- [Instalando o compilador e escrevendo o primeiro código](aula3-instalando-compilador-escrevendo-primeiro-codigo)
-
-### Aula 4
-- [Criando e configurando o TSconfig](aula4-criando-configurando-tsconfig)
-
-### Aula 5
-- [Types](aula5-types)
-
-### Aula 6
-- [Type Inference](aula6-type-inference)
-
-### Aula 7
-- [Type Aliases com Union](aula7-type-aliases-union)
-
-### Aula 8
-- [Type Aliases com Intersection](aula8-type-aliases-intersection)
-
-### Aula 9
-- [Classes](aula9-classes)
-
-### Aula 10
-- [Interfaces](aula10-interfaces)
-
-### Aula 11
-- [Type Alias *vs* Interface](aula11-type-alias-interface)
-
-### Aula 12
-- [Generics](aula12-generics)
-
-### Aula 13
-- [Type Utilities](aula13-type-utilities)
-
-### Aula 14 (final)
-- [Decorators](aula14-decorators)
 
 ## Comandos importantes
 
@@ -65,6 +38,7 @@ Ou, com o `tsconfig.json` configurado:
 
 ### Execução do código:
 > yarn dev
+
 
 ## Playlist
 Minicurso disponível no [YouTube](https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) *by* William Justen.
